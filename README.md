@@ -1,4 +1,4 @@
-# 나메의 깃 허브 블로그 Root 입니다.
+# NaMe's Github Blog 'Root'
 
 
 
