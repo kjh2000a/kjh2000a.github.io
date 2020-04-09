@@ -2,7 +2,7 @@
 
 
 
-* [Blog_TIL](https://kjh2000a.github.io/Blog_TIL/) <= 링크로 이동.
+* [Blog](https://kjh2000a.github.io/Blog/) <= 링크로 이동.
 
 * Blog_Study <= 작업 중.
 
